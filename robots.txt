@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://disarpus.indramayukab.go.id/katan/sitemap.xml
